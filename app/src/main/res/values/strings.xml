@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weather Logger</string>
+    <string name="save">Save</string>
+    <string name="view_details">view details</string>
+    <string name="delete">Delete</string>
+    <string name="pressure">Pressure</string>
+    <string name="speed">Speed</string>
+    <string name="humidity">Humidity</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="details">Details</string>
+</resources>
