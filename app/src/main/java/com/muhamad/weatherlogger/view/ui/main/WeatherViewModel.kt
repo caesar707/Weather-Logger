@@ -1,4 +1,4 @@
-package com.muhamad.weatherlogger.view_model
+package com.muhamad.weatherlogger.view.ui.main
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel

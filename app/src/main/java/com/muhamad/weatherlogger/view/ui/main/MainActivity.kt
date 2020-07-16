@@ -1,4 +1,4 @@
-package com.muhamad.weatherlogger.view.ui
+package com.muhamad.weatherlogger.view.ui.main
 
 import android.Manifest
 import android.annotation.SuppressLint
@@ -28,7 +28,7 @@ import com.muhamad.weatherlogger.databinding.ActivityMainBinding
 import com.muhamad.weatherlogger.interfaces.OnItemClickListener
 import com.muhamad.weatherlogger.model.WeatherModel
 import com.muhamad.weatherlogger.view.adapter.WeatherListAdapter
-import com.muhamad.weatherlogger.view_model.WeatherViewModel
+import com.muhamad.weatherlogger.view.ui.DetailsActivity
 
 
 class MainActivity : AppCompatActivity(), OnItemClickListener {
